@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there! I'm Evgeny!👋
+## What do I know?
+>  Programming Languages: Python, C/C++, Java, JavaScript/TypeScript, ~~HTMl+CSS~~
+>  Frameworks: Nestjs, NextJs/ReactJs
 
 <!--
 **bravTm/bravTm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
