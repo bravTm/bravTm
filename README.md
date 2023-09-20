@@ -7,7 +7,10 @@
 ## What am I interested in?
 > Computer Science, Cryptography, several branches of mathematics: Combinatorics, Algebra
 
-> Non-Programming Related:  Astronomy, Personal growth, Calisthenics(sport)  
+> Non-Programming Related:  Astronomy, Personal growth, Calisthenics(sport)
+
+## My main goal 
+_Change the world! Make a great contribution to the development of Computer Science and Programming_
 
 <!--
 **bravTm/bravTm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
