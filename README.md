@@ -1,6 +1,7 @@
 ### Hi there! I'm Evgeny!👋
 ## What do I know?
->  Programming Languages: Python, C/C++, Java, JavaScript/TypeScript, ~~HTMl+CSS~~ \n
+>  Programming Languages: Python, C/C++, Java, JavaScript/TypeScript, ~~HTMl+CSS~~
+
 >  Frameworks: Nestjs, NextJs/ReactJs
 
 <!--
