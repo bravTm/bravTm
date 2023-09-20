@@ -4,6 +4,11 @@
 
 >  Frameworks: Nestjs, NextJs/ReactJs
 
+## What am I interested in?
+> Computer Science, Cryptography, several branches of mathematics: Combinatorics, Algebra
+
+> Non-Programming Related:  Astronomy, Personal growth, Calisthenics(sport)  
+
 <!--
 **bravTm/bravTm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
